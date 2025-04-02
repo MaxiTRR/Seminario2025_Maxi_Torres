@@ -21,4 +21,4 @@ Este repositorio contiene una página web desarrollada como práctica del curso 
 - JavaScript
 
 ## Autor
-**Pablo Fernando Melissari**
+**Maximiliano Torres**
